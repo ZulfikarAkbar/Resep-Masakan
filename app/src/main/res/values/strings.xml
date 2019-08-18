@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Resep Masakan</string>
+    <string name="nama_makanan">Nama Masakan</string>
+    <string name="nama_masakan">Nama Masakan</string>
+    <string name="bahan">Bahan-bahan</string>
+    <string name="cara_buat">Proses Pembuatan</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="title_activity_profil">ProfilActivity</string>
+
+</resources>
